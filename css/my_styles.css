@@ -17,6 +17,8 @@
     border:2px solid;
     border-color: rgba(0, 0, 0, 0.178);
     border-radius: 15px;
+    padding: 10px;
+    width: 60%;
 }
 
 p#redred{
@@ -28,6 +30,10 @@ p#redred{
 
 .bg-primary{
     background-color: rgb(255, 51, 144) ;
+}
+
+.pdd{
+    padding: 10px;
 }
 
 #about{
@@ -43,7 +49,7 @@ p#redred{
     border:2px solid;
     border-color: rgba(0, 0, 0, 0.178);
     border-radius: 15px;
-    width: 30%;
+    width: 25%;
     font-size:70px !important;
 }
 
