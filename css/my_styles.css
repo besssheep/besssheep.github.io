@@ -1,8 +1,12 @@
-.redred{background-color: red;
+.redred{
+    background-color: red;
     color: white;
     padding: 0px 0px 0px 50px;
-    width:50%;}
-.testtest{color:rgb(255, 255, 255);
+    width:50%;
+}
+
+.testtest{
+    color:rgb(255, 255, 255);
     background-color: rgba(0, 0, 0, 0.541);
     font-size:20px !important;
     text-align:left;
@@ -12,31 +16,81 @@
     line-height:40px;
     border:2px solid;
     border-color: rgba(0, 0, 0, 0.178);
-    border-radius: 15px;}
-p#redred{color: red;
+    border-radius: 15px;
+}
+
+p#redred{
+    color: red;
     background-color: yellow;
     border:10px solid;
-    border-color:blue;}
-.bg-primary{background-color: rgb(255, 51, 144) ;}
-#about{background-image: url("../assets/img/run.jpg");
+    border-color:blue;
+}
+
+.bg-primary{
+    background-color: rgb(255, 51, 144) ;
+}
+
+#about{
+    background-image: url("../assets/img/run.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
-    background-size: cover; }
-.about-h1{background-color: rgb(124, 243, 211);
+    background-size: cover; 
+}
+
+.about-h1{
+    background-color: rgb(124, 243, 211);
     border:2px solid;
     border-color: rgba(0, 0, 0, 0.178);
     border-radius: 15px;
     width: 30%;
-    font-size:70px !important;}
-.contact{background-color: rgb(124, 243, 211);
-        border:2px solid;
-        border-color: rgba(0, 0, 0, 0.178);
-        border-radius: 15px;
-        width: 15%;
-        font-size:25px !important;}
-#experience{background-color: pink }
-#education{background-color: pink }
-#skills{background-color: pink }
-#interests{background-color: pink }
-#awards{background-color: pink }
+    font-size:70px !important;
+}
+
+.contact{
+    background-color: rgb(124, 243, 211);
+    border:2px solid;
+    border-color: rgba(0, 0, 0, 0.178);
+    border-radius: 15px;
+    width: 15%;
+    font-size:25px !important;
+}
+
+#experience{
+    background-color: pink 
+}
+
+#education{
+    background-color: pink 
+}
+
+#skills{
+    background-color: pink 
+}
+
+#interests{
+    background-color: pink 
+}
+
+#awards{
+    background-color: pink 
+}
+
+.expedu_icon{
+    color:rgb(255, 51, 144) ;
+}
+
+.expedu_icon:hover{
+    background-color: rgb(252, 249, 249);
+    color:rgb(117, 208, 231) ;
+    border-radius: 15px;
+    padding: 0px 10px 0px 10px;
+}
+
+.whitecolor{
+    color: white !important;
+}
+
+.bor-15{
+    border-radius: 15px;
+}
